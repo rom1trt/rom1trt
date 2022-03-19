@@ -32,3 +32,6 @@
 ### How to reach me:
 [![linkedin](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/romaintrefault)
 
+[![GitHub rom1trt](https://img.shields.io/github/followers/rom1trt?label=follow&style=social)](https://github.com/rom1trt) 
+
+
