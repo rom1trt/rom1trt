@@ -1,6 +1,6 @@
 <h3 align="center">💻 A passionate software engineer student 📱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rom1trt&label=Profile%20views&color=0e75b6&style=flat" alt="rom1trt" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/rom1trt/count.svg)
 
 ## 👨🏻‍💻 About Me
 - I'm Romain from France 🇫🇷, a second year student at EPITA Paris. 
@@ -10,7 +10,7 @@
 
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffff00)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -31,6 +31,8 @@
 
 ### How to reach me:
 [![linkedin](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/romaintrefault)
+
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
 
 [![GitHub rom1trt](https://img.shields.io/github/followers/rom1trt?label=follow&style=social)](https://github.com/rom1trt) 
 
