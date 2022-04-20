@@ -1,3 +1,7 @@
+<!------------------------------------------------------Profile----------------------------------->	
+<div align="center">
+  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/romaintrefault" target="_blank">Romain</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 <h3 align="center">💻 A passionate software engineer student 📱</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/rom1trt/count.svg)
@@ -8,6 +12,7 @@
 - I have a huge interest in everything related to blockchain and web3 ⛓. 
 - I’m looking to collaborate on a blockchain or web3 project 👯.
 
+<!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffff00)&nbsp;
@@ -28,9 +33,46 @@
 ![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=zapier)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu)&nbsp;
 
+<!------------------------------------------------------Experiences----------------------------------->														
+<h2>Experience</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Role</b></td>
+      <td><b>Company</b></td>
+      <td><b>Start Date</b></td>
+      <td><b>End Date</b></td>
+      <td><b>Duration</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><b>Full Stack Software Engineer</b></td>
+      <td><a href="https://request.network/en/"><b>Request Network</b></a></td>
+      <td>June 2022</td>
+      <td>August 2022</td>
+      <td>2 Months</td>
+    </tr>
+	  <tr>
+		  <td><b>Software Engineer</b></td>
+      <td><a href="https://www.archipels.io/"><b>Archipels</b></a></td>
+      <td>June 2021</td>
+      <td>August 2021</td>
+      <td>2 Months</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!--------------------------------------------------------Blog Posts------------------------------------->
+<h2>Latest Posts</h2>
+<ul>
+<li><a href=""><b>⛓️ IPFS: The Decentralized, Peer-to-Peer Storing Protocol (upcoming)</b></a><br></li>
+</ul>
 
 ### How to reach me:
 [![linkedin](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/romaintrefault)
+[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=2867B2&labelColor=000000)](https://twitter.com/justerom1)
 
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
 
