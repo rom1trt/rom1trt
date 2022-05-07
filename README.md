@@ -72,7 +72,8 @@
 
 ### How to reach me:
 [![linkedin](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/romaintrefault)
-[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=2867B2&labelColor=000000)](https://twitter.com/justerom1)
+[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=blue&labelColor=000000)](https://twitter.com/justerom1)
+[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=personal&message=Personal+Website&label=&color=orange&labelColor=000000)](https://romaintrefault.on.fleek.co/)
 
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
 
