@@ -67,7 +67,7 @@
 <!--------------------------------------------------------Blog Posts------------------------------------->
 <h2>Latest Posts</h2>
 <ul>
-<li><a href=""><b>⛓️ IPFS - Distributed, Content Addressed, Versioned, Peer-to-Peer File Protocol (upcoming)</b></a><br></li>
+<li><a href="https://medium.com/@romtref/ipfs-distributed-content-addressed-versioned-peer-to-peer-file-protocol-99c3e5ecab50"><b>⛓️ IPFS - Distributed, Content Addressed, Versioned, Peer-to-Peer File Protocol</b></a><br></li>
 </ul>
 
 ### How to reach me:
