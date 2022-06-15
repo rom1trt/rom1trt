@@ -67,7 +67,8 @@
 <!--------------------------------------------------------Blog Posts------------------------------------->
 <h2>Latest Posts</h2>
 <ul>
-<li><a href="https://medium.com/@romtref/ipfs-distributed-content-addressed-versioned-peer-to-peer-file-protocol-99c3e5ecab50"><b>⛓️ IPFS - Distributed, Content Addressed, Versioned, Peer-to-Peer File Protocol</b></a><br></li>
+<li><a href="https://medium.com/@romtref/ipfs-distributed-content-addressed-versioned-peer-to-peer-file-protocol-99c3e5ecab50"><b>IPFS - Distributed, Content Addressed, Versioned, Peer-to-Peer File Protocol</b></a><br></li>
+<li><a href="https://medium.com/@romtref/layer-2-a-small-step-towards-the-mass-adoption-of-blockchain-cb37ad777af2"><b>Layer 2: One Step Closer to the Mass Adoption of Blockchain</b></a><br></li>
 </ul>
 
 ### How to reach me:
