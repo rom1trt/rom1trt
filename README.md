@@ -69,6 +69,8 @@
 <ul>
 <li><a href="https://medium.com/@romtref/ipfs-distributed-content-addressed-versioned-peer-to-peer-file-protocol-99c3e5ecab50"><b>IPFS - Distributed, Content Addressed, Versioned, Peer-to-Peer File Protocol</b></a><br></li>
 <li><a href="https://medium.com/@romtref/layer-2-a-small-step-towards-the-mass-adoption-of-blockchain-cb37ad777af2"><b>Layer 2: One Step Closer to the Mass Adoption of Blockchain</b></a><br></li>
+<li><a href="https://medium.com/coinmonks/zero-knowledge-proof-proving-it-without-revealing-it-125ec1f4f32e"><b>Zero-Knowledge Proof (ZKP): Proving It Without Revealing It</b></a><br></li>
+<li><a href="https://medium.com/coinmonks/snarks-vs-starks-a-deep-dive-behind-layer-2-rollups-d9b3ca6e1386"><b>SNARKs vs STARKs: A Deep Dive Behind Layer-2 Rollups</b></a><br></li>
 </ul>
 
 ### How to reach me:
