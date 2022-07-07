@@ -73,10 +73,12 @@
 <li><a href="https://medium.com/coinmonks/snarks-vs-starks-a-deep-dive-behind-layer-2-rollups-d9b3ca6e1386"><b>SNARKs vs STARKs: A Deep Dive Behind Layer-2 Rollups</b></a><br></li>
 </ul>
 
-### How to reach me:
-[![linkedin](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/romaintrefault)
-[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=blue&labelColor=000000)](https://twitter.com/justerom1)
-[![twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=personal&message=Personal+Website&label=&color=orange&labelColor=000000)](https://romaintrefault.on.fleek.co/)
+### Contact
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaintrefault)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justerom1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@romtref)
+[![twitter](https://img.shields.io/badge/website-orange?style=for-the-badge&logo=About.me&logoColor=white)](https://romaintrefault.on.fleek.co/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romtref@gmail.com)
 
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
 
