@@ -15,23 +15,23 @@
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffff00)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![Solidity](https://img.shields.io/badge/-solidity-05122A?style=flat&logo=solidity)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Grafana](https://img.shields.io/badge/-grafana-05122A?style=flat&logo=grafana)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
-![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=zapier)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=ffff00)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![Solidity](https://img.shields.io/badge/-solidity-05122A?style=for-the-badge&logo=solidity)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Grafana](https://img.shields.io/badge/-grafana-05122A?style=for-the-badge&logo=grafana)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)\
+![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=for-the-badge&logo=zapier)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu)&nbsp;
 
 <!------------------------------------------------------Experiences----------------------------------->														
 <h2>Experience</h2>
@@ -71,9 +71,10 @@
 <li><a href="https://medium.com/@romtref/layer-2-a-small-step-towards-the-mass-adoption-of-blockchain-cb37ad777af2"><b>Layer 2: One Step Closer to the Mass Adoption of Blockchain</b></a><br></li>
 <li><a href="https://medium.com/coinmonks/zero-knowledge-proof-proving-it-without-revealing-it-125ec1f4f32e"><b>Zero-Knowledge Proof (ZKP): Proving It Without Revealing It</b></a><br></li>
 <li><a href="https://medium.com/coinmonks/snarks-vs-starks-a-deep-dive-behind-layer-2-rollups-d9b3ca6e1386"><b>SNARKs vs STARKs: A Deep Dive Behind Layer-2 Rollups</b></a><br></li>
+<li><a href="https://medium.com/@romtref/blockchain-the-new-supply-chain-standard-73090ced5d5f"><b>Blockchain: the New Supply Chain Standard</b></a><br></li>
 </ul>
 
-### Contact
+### 🌐 Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaintrefault)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justerom1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@romtref)
