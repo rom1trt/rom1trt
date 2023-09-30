@@ -62,7 +62,7 @@
       <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
       <td>September 2023</td>
       <td>January 2024</td>
-      <td>5h Months</td>
+      <td>5 Months</td>
     </tr>
   </tbody>
 </table>
