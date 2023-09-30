@@ -7,27 +7,24 @@
 ![Visitor Count](https://profile-counter.glitch.me/rom1trt/count.svg)
 
 ## 👨🏻‍💻 About Me
-- I'm Romain from France 🇫🇷, a second year student at EPITA Paris. 
-- I am interested in Artificial Intelligence 🤖, Data Science 🧪.
-- I have a huge interest in everything related to blockchain and web3 ⛓. 
-- I’m looking to collaborate on a blockchain or web3 project 👯.
+- I'm Romain from France 🇫🇷, a 4th year student at EPITA Paris. 
+- I am interested in Artificial Intelligence 🤖, Data Science 🧪, blockchain ⛓️.
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=ffff00)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![Solidity](https://img.shields.io/badge/-solidity-05122A?style=for-the-badge&logo=solidity)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Grafana](https://img.shields.io/badge/-grafana-05122A?style=for-the-badge&logo=grafana)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)\
 ![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=for-the-badge&logo=zapier)&nbsp;
@@ -53,12 +50,19 @@
       <td>August 2022</td>
       <td>2 Months</td>
     </tr>
-	  <tr>
+    <tr>
 		  <td><b>Software Engineer</b></td>
       <td><a href="https://www.archipels.io/"><b>Archipels</b></a></td>
       <td>June 2021</td>
       <td>August 2021</td>
       <td>2 Months</td>
+    </tr>
+    <tr>
+		  <td><b>Software Engineer</b></td>
+      <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
+      <td>September 2023</td>
+      <td>January 2024</td>
+      <td>5h Months</td>
     </tr>
   </tbody>
 </table>
