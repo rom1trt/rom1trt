@@ -44,6 +44,13 @@
   </thead>
   <tbody>
     <tr>
+		  <td><b>Software Engineer</b></td>
+      <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
+      <td>September 2023</td>
+      <td>January 2024</td>
+      <td>5 Months</td>
+    </tr>
+    <tr>
 	    <td><b>Full Stack Software Engineer</b></td>
       <td><a href="https://request.network/en/"><b>Request Network</b></a></td>
       <td>June 2022</td>
@@ -56,13 +63,6 @@
       <td>June 2021</td>
       <td>August 2021</td>
       <td>2 Months</td>
-    </tr>
-    <tr>
-		  <td><b>Software Engineer</b></td>
-      <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
-      <td>September 2023</td>
-      <td>January 2024</td>
-      <td>5 Months</td>
     </tr>
   </tbody>
 </table>
