@@ -7,8 +7,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/rom1trt/count.svg)
 
 ## 👨🏻‍💻 About Me
-- I'm Romain from France 🇫🇷, a 4th year student at EPITA Paris. 
-- I am interested in Artificial Intelligence 🤖, Data Science 🧪, blockchain ⛓️.
+- I'm Romain from France 🇫🇷, in my last year of Master's in Computer Science at EPITA Paris. 
+- I am interested in Artificial Intelligence 🤖, Data Science 🧪, Blockchain ⛓️.
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
@@ -43,6 +43,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+		  <td><b>Software Development Engineer</b></td>
+      <td><a href="https://amazon.com"><b>Amazon</b></a></td>
+      <td>September 2024</td>
+      <td>March 2025</td>
+      <td>6 Months</td>
+    </tr>
     <tr>
 		  <td><b>Software Engineer</b></td>
       <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
